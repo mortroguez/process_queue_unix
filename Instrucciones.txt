@@ -1,0 +1,8 @@
+gcc -E archivo.c
+
+gcc -S archivo.c
+
+gcc -c archivo.c
+
+gcc archivo.c -o mi_programa
+
